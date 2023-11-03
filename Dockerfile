@@ -1,4 +1,4 @@
-FROM golang:1.19.0-alpine3.16
+FROM golang:1.19.8-alpine3.16
 LABEL maintainer="Cloud Posse <hello@cloudposse.com>"
 
 LABEL "com.github.actions.name"="Build Harness"
